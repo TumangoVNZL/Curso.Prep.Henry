@@ -1,0 +1,10 @@
+
+- variables: Sirven para almacenar valores
+
+- Strings: Son caracteres como por ejemplo bloques de texto
+
+- Funciones (argumentos, return): Las funciones sirven para declarar datos en función de otros, los argumentos representan esos datos y el return permite extraer la información de la función
+
+- Declaraciones if: un statement que permite elegir que se cumpla una expresión u otra en función de que se cumpla o no una condición dada
+
+- Valores booleanos: son los valores que pueden ser verdaderos o falsos como por ejemplo los del sistema binario
