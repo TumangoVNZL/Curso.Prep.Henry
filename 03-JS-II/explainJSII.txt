@@ -1,0 +1,7 @@
+-  For: Es un statement que permite evaluar bucles en función de condiciones dadas hasta que dicho bucle sea false
+
+- &&: Es un operador lógico que define dos o más condiciones y que permite al if ser true cuando se cumpla cada una de ellas
+
+- ||: Es un operador lógico que define dos o más condiciones y que permite al if ser true cuando se cumpla al menos una de ellas
+
+- ! = Es un operador lógico que otorga un valor inverso a la expression que agrupa 
