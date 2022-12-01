@@ -1,0 +1,2 @@
+
+- Arrays: Funcionan como contenedores de datos (booleanos, números o strings) y permiten almacenar o extraer valores con facilidad
