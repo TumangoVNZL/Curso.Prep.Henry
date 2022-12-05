@@ -1,0 +1,10 @@
+
+- Objetos: Funcionan como una especie de arreglo que permite almacenar varios valores (strings, numeros, booleanos o incluso funciones)
+
+- Propiedades: Las propiedades son los valores que que se asignan a cada objeto. Un objeto puede tener infinitud de propiedades.
+
+- Métodos: Un método es una función que se declara como propiedad de un objeto.
+
+- Bucle for ... in: Es un bucle for especial que permita revisar cada una de las propiedades que conforman a un objeto, similar al uso del for en los arreglos.
+
+- Dot vs notación de corchetes: La notación a través de puntos permite invocar la propiedad de un objeto de manera literal. La notación a través de corchetes permite invocar a un objeto dejando al compilador interpretar el valor asignado a la propiedad.
