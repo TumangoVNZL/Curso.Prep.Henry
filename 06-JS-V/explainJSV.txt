@@ -1,0 +1,4 @@
+
+- Prototype: Es una especie de objeto "alfa" que engloba cada expresión en Javascript. Los prototipos varían en función del tipo de objeto (Arrays, strings) y tienen un conjunto de propiedades que pueden ser invocadas. Javascript es un lenguaje basado en el uso de prototipos.
+
+- Constructors (clases): Son un tipo especial de función cuyo objetivo es establecer una plantilla que permita declarar un conjunto de objetos con las mismas propiedades.
