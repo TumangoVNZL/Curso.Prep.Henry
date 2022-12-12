@@ -10,11 +10,22 @@
   		width: 500px;
   		background: seashell;
   		margin: 50px;
-         padding: 50px;
+        padding: 50px;
         border-color: silver;
-         border-style: dotted;
+        border-style: dotted;
   	}
-  	span { 
-  		font-size: 18px;
+      	span { 
+  		text-align: center;
+        font-size: 18px;
   	}
+    .divClass{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    body {
+        height: 665px;
+        background-image: "https://img.freepik.com/foto-gratis/paisaje-carretera-selva-negra-cubierta-arboles-nieve-alemania_181624-54214.jpg?w=2000";
+        background-size:10rem ;
+    }
     
